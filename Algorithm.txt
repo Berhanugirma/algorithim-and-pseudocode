@@ -1,0 +1,21 @@
+my first psedio code
+step 1 start
+step 2 declare variable y;
+step 3 y= the value intered by the user;
+step 4 y= y+5; // add 5 on the y value
+step 5 y= y*2; // make double the result
+step 6  y= y-7; // sub 7 from the result
+ step7  print out y value; 
+step 8  ende of the program.
+
+
+
+
+Algorith 
+1 start
+2 Accept y value by promoting the users
+3 Add 5 to y values
+4 make it double y values
+5 substract 5 from current y value
+print the y value
+ ende the program.
